@@ -1,0 +1,13 @@
+{
+  "name": "hello-claude",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "First Claude API test: one small request, then print the answer and token count.",
+  "scripts": {
+    "start": "node --env-file-if-exists=../.env index.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.131.0"
+  }
+}
