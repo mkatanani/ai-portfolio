@@ -8,6 +8,7 @@ I help owner-managed Florida businesses fix the operations problems that growth 
 
 | Project | What it does | Tools |
 |---|---|---|
+| [process-xray](process-xray) | An animated map of a quote-to-cash process that shows where the days go and what a simple fix could change. Sample data. | HTML, CSS, JavaScript |
 | [hello-claude](hello-claude) | A first, deliberately tiny call to the Claude API that prints an answer and the tokens used. It will not run without an explicit cost-approval flag. | Node.js, Anthropic SDK |
 
 ## Ground rules
